@@ -8,8 +8,6 @@ def load_data():
     # a. allocate data container
     data = {}
 
-    #erresrse
-
     # b. fill 
     data['GDP'] = np.array([1.0, 2.0, 3.0, 4.0, 5.0])
 
